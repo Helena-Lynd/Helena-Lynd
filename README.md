@@ -23,4 +23,4 @@ Rochester Institute of Technology<br>
 - Assembly
 - VHDL
 -----------------------------------------------------------------------------
-For my full resume, visit my LinkedIn page or email me at hml9034@rit.edu.
+For my full resume, visit my LinkedIn page.
