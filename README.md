@@ -6,5 +6,5 @@
 I'm a senior student seeking a cybersecurity or software engineering position for June 2026.
 
 ### Find out more about me here:
-- [Resume (PDF)](https://github.com/Helena-Lynd/Helena-Lynd/blob/main/Lynd%2C%20Helena%20Resume.pdf)
+- [Resume (PDF)](https://github.com/Helena-Lynd/Helena-Lynd/blob/main/Resume%20Helena%20Lynd.pdf)
 - [LinkedIn Page](https://www.linkedin.com/in/helena-lynd/)
