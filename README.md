@@ -1,5 +1,5 @@
 
-![ProfileBanner](https://user-images.githubusercontent.com/114961330/193895174-0d110c3b-b386-47ae-92b0-8d5303072f8d.png)
+![ProfileBanner](https://github.com/Helena-Lynd/Helena-Lynd/blob/main/Me%20Hiking.JPG)
 
 ## Welcome! I'm Helena Lynd<br>
 
