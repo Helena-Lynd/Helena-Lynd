@@ -9,5 +9,5 @@ Outside of coding, my biggest hobbies are sewing, scrapbooking, playing video ga
 
 ### Find out more about me here:
 - [Portfolio Website](https://helena-lynd.github.io/)
-- [Resume (PDF)](https://github.com/Helena-Lynd/Helena-Lynd.github.io/blob/main/frontend/src/assets/Resume-Helena-Lynd.pdf)
+- [Resume (PDF)](https://github.com/Helena-Lynd/Helena-Lynd.github.io/blob/main/frontend/src/assets/Resume%20Helena%20Lynd.pdf)
 - [LinkedIn Page](https://www.linkedin.com/in/helena-lynd/)
